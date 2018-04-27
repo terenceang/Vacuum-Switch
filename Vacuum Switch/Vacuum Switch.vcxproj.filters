@@ -17,4 +17,9 @@
   <ItemGroup>
     <None Include="Vacuum Switch.ino" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="__vm\.Vacuum Switch.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
